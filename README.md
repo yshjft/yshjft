@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 </p>
 
+## <p align="center">✏️ Blog ✏️</p>
+<img src="https://img.shields.io/badge/Velog-12B886?style=flat&logo=Vimeo&logoColor=ffffff&link=https://velog.io/@yshjft"/>
+
 <p align="center">
   
 |GitHub stats|Most Used Languages|
