@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=YuSeok%20Hong&fontColor=ffffff&animation=fadeIn&type=soft&color=050f2c"/>
+  <img src="https://capsule-render.vercel.app/api?text=YuSeok%20Hong&fontColor=00AEFF&animation=fadeIn&type=soft&color=050f2c"/>
 </p>       
 </br>
 
@@ -43,5 +43,3 @@
 |![Yusoek's GitHub stats](https://github-readme-stats.vercel.app/api?username=yshjft&show_icons=true&theme=algolia)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshjft&layout=compact&theme=algolia)|
 
 </p>
-
-
