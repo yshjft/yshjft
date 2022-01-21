@@ -1,4 +1,13 @@
-![header](https://capsule-render.vercel.app/api?text=YuSeok%20Hong&fontColor=ffffff&animation=fadeIn&type=soft&color=3c78d8)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=YuSeok%20Hong&fontColor=ffffff&animation=fadeIn&type=soft&color=3c78d8"/>
+</p>       
+
+
+
+## <p align="center">💻 SKILLS 💻</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+</p>
 
 
 <!--
