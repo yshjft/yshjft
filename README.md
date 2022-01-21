@@ -6,11 +6,13 @@
 
 ## <p align="center">💻 SKILLS 💻</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 </p>
 
 ## <p align="center">✏️ Blog ✏️</p>
-<img src="https://img.shields.io/badge/Velog-12B886?style=flat&logo=Vimeo&logoColor=ffffff&link=https://velog.io/@yshjft"/>
+<p align="center"> 
+  <a href="https://velog.io/@yshjft"><img src = "https://img.shields.io/badge/Velog-12B886?style=flat&logo=Vimeo&logoColor=ffffff"/></a>
+ </p>
 
 <p align="center">
   
